@@ -27,6 +27,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?fff&style=flat&logo=javascript&logoColor=9644F4)
 ![JSON](https://img.shields.io/badge/-JSON-000?style=flat&logo=json&logoColor=9644F4)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logoColor=9644F4&logo=mongodb)
+![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=9644F4)
+![Postgres](https://img.shields.io/badge/postgres-000.svg?style=for-the-badge&logo=postgresql&logoColor=9644F4)
+
 
 
 
