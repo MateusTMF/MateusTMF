@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    ## Hello how are you? I'm 
+    ## Hello, how are you? I'm 
     <a href="https://www.linkedin.com/in/mateustmf/">Mateus Ferreira👋🏻</a>
   </h1>
 </div>
