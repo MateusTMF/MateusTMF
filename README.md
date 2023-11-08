@@ -8,7 +8,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/MateusTMF?style=flat&color=9644F4)
 ![GitHub User's stars](https://img.shields.io/github/stars/MateusTMF?style=flat&color=9644F4)
-![GitHub last commit](https://img.shields.io/github/last-commit/MateusTMF/JefersonLucas?style=flat&color=9644F4)
+![GitHub last commit](https://img.shields.io/github/last-commit/MateusTMF/MateusTMF?style=flat&color=9644F4)
 ![Views Counter](https://komarev.com/ghpvc/?username=MateusTMF&color=blueviolet)
 
 🧔🏻 My name is **Mateus Ferreira**, I'm 20 years old, I'm Brazilian studying information systems and specializing in Full Stack Web Developer.
