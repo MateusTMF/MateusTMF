@@ -31,7 +31,6 @@
 
 
 
-
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusTMF&layout=compact&theme=midnight-purple&hide_border=true" title="Top Langs"/>
 
 ![Snake animation](https://github.com/MateusTMF/MateusTMF/blob/output/github-contribution-grid-snake.svg)
