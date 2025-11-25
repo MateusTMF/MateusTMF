@@ -64,13 +64,10 @@ Atualmente focado em evoluir minhas skills em **Node.js, React, AWS, Docker e Po
 # 📈 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MateusTMF&theme=midnight-purple&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusTMF&layout=compact&theme=midnight-purple&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusTMF&theme=midnight-purple&hide_border=true" />
 </div>
 
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusTMF&layout=compact&theme=midnight-purple&hide_border=true" />
-</div>
+
 
 ---
 
