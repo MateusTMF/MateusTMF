@@ -1,0 +1,26 @@
+<svg width="100%" height="180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0a" />
+      <stop offset="100%" stop-color="#1a1a1a" />
+    </linearGradient>
+
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b86bff" />
+      <stop offset="100%" stop-color="#9644F4" />
+    </linearGradient>
+  </defs>
+
+  <rect x="10" y="10" width="98%" height="160" rx="18" fill="url(#card-bg)"
+        stroke="url(#neon)" stroke-width="3" />
+
+  <text x="50%" y="45%" font-size="26" fill="#fff" opacity="0.95"
+        text-anchor="middle" font-family="Segoe UI, sans-serif">
+    Projeto Destaque 01
+  </text>
+
+  <text x="50%" y="70%" font-size="16" fill="#ccc" text-anchor="middle"
+        font-family="Segoe UI, sans-serif">
+    Clique para ver mais detalhes
+  </text>
+</svg>
